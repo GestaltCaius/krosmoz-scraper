@@ -1,0 +1,6 @@
+__pycache__/*
+chromedriver
+assets/*
+*.log
+*.json
+*.csv
