@@ -4,3 +4,6 @@ assets/*
 *.log
 *.json
 *.csv
+
+.idea/*
+venv*/*
